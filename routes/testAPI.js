@@ -4,7 +4,7 @@ var router = express.Router();
 
 
 const SMOCKED_TOPS = {
-  name: "SMOCKED_TOPS",
+  name: "SMOCKED TOPS",
   images: [
     "https://i.im.ge/2022/09/08/Oftta8.RENAME-36.jpg",
     "https://i.im.ge/2022/09/08/OftNGX.RENAME-35.jpg",
@@ -37,7 +37,7 @@ const SMOCKED_TOPS = {
     "https://i.im.ge/2022/09/08/OfPnyM.RENAME-4.jpg",
     "https://i.im.ge/2022/09/08/OfPJsh.RENAME-3.jpg",
   ],
-  price: 3000
+  price: 1000
 }
 const RUCHED_DRESSES = {
   name: "RUCHED DRESSES",
@@ -73,7 +73,7 @@ const RUCHED_DRESSES = {
     "https://i.im.ge/2022/09/08/OfPnyM.RENAME-4.jpg",
     "https://i.im.ge/2022/09/08/OfPJsh.RENAME-3.jpg",
   ],
-  price: 3000,
+  price: 2000,
 };
 const WRAP_TOPS = {
   name: "WRAP TOPS",
@@ -145,7 +145,7 @@ const MINI_SKIRTS = {
     "https://i.im.ge/2022/09/08/OfPnyM.RENAME-4.jpg",
     "https://i.im.ge/2022/09/08/OfPJsh.RENAME-3.jpg",
   ],
-  price: 3000,
+  price: 4000,
 };
 const SATIN_DRESSES = {
   name: "SATIN DRESSES",
@@ -181,8 +181,9 @@ const SATIN_DRESSES = {
     "https://i.im.ge/2022/09/08/OfPnyM.RENAME-4.jpg",
     "https://i.im.ge/2022/09/08/OfPJsh.RENAME-3.jpg",
   ],
-  price: 3000,
-};const TWO_PIECES = {
+  price: 5000,
+};
+const TWO_PIECES = {
   name: "TWO PIECES",
   images: [
     "https://i.im.ge/2022/09/08/Oftta8.RENAME-36.jpg",
@@ -216,7 +217,7 @@ const SATIN_DRESSES = {
     "https://i.im.ge/2022/09/08/OfPnyM.RENAME-4.jpg",
     "https://i.im.ge/2022/09/08/OfPJsh.RENAME-3.jpg",
   ],
-  price: 3000,
+  price: 6000,
 };
 
 let dresspro_old = {
